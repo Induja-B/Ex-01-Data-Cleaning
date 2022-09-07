@@ -19,4 +19,11 @@ Remove the null values from the data
 Save the Clean data to the file
 
 # CODE
+import pandas as pd 
+import numpy as np 
+data=pd.read_csv("/content/Data_set (2).csv")
+print(df)
+df.head(10)
 # OUPUT
+![image](https://user-images.githubusercontent.com/86044259/188831298-7f35a1d9-6e31-477b-8e91-a7ac39b29c6b.png)
+
